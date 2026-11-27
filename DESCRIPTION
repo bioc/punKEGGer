@@ -16,7 +16,7 @@ Roxygen: list(markdown = TRUE)
 Depends: 
     R (>= 4.6.0)
 Imports: 
-    dplyr,
+    dplyr (>= 1.1.1),
     ggplot2,
     ggraph,
     glue,
